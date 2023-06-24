@@ -22,7 +22,6 @@ pip install -r requirements.txt
 
 4. Run the code using the following command:
 ```
-python Weekly_Archiving.py
 python insider_openinsider.py
 ```
 
