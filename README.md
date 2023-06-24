@@ -1,6 +1,6 @@
 # Insider_Trader
 
-![Logo of the Project](https://cdn.pixabay.com/photo/2021/05/31/01/54/amc-6297444_1280.jpg)
+![Logo of the Project](https://cdn.pixabay.com/photo/2016/04/20/08/21/entrepreneur-1340649_1280.jpg)
 
 This repository contains a Python script for analyzing publicly accessible insider trades on openinsider. It uses the libraries requests and beautifulsoup4.
 
